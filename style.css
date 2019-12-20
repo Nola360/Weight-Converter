@@ -1,0 +1,19 @@
+body {
+  margin-top: 70px;
+  background: #333;
+  color: white;
+}
+
+.card-primary {
+  background: rgb(51, 113, 247);
+}
+
+.card-success {
+  background: rgb(46, 197, 46);
+  
+}
+
+.card-danger {
+  background: red;
+  color: white;
+}
